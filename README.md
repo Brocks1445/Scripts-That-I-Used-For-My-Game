@@ -3,5 +3,5 @@
 
 > Included
  1. PlayerCTRL.cs // Used To Move The Player
- 2. TopDownPlayerCTRL // Same As PlayerCTRL.cs But For TopDown View Games
+ 2. TopDownPlayerCTRL.cs // Same As PlayerCTRL.cs But For TopDown View Games
 ###### More Scripts Comming Soon
